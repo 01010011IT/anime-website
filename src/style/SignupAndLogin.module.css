@@ -1,0 +1,37 @@
+.signupButton {
+    background-color: rgba(133, 90, 65, 0.884);
+    border: 1px solid aliceblue;
+    color: rgba(250, 235, 215, 0.712);
+    margin-top: 30px;
+    width: 200px;
+    height: 50px;
+    border-radius: 9px;
+    margin-left: 100px;
+}
+
+.signupButton:hover {
+    background-color: rgb(133, 90, 65);
+    color: rgba(250, 235, 215, 0.712);
+    font-weight: 600s;
+}
+
+.title {
+    color: rgb(133, 90, 65);
+    margin: 20px 40px;
+}
+
+.loginButton {
+    background-color: rgba(133, 90, 65, 0.884);
+    border: 1px solid aliceblue;
+    color: rgba(250, 235, 215, 0.712);
+    margin-top: 30px;
+    width: 200px;
+    height: 50px;
+    border-radius: 9px;
+    margin-left: 100px;
+}
+
+.loginButton:hover {
+    background-color: rgb(133, 90, 65);
+    color: rgba(250, 235, 215, 0.712);
+}

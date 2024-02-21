@@ -1,0 +1,51 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    width: 1484px;
+    /* background-color: rgba(95, 36, 8, 0.801); */
+    background-color: rgb(197, 162, 137);
+    /* background-color: #0D6EFD; */
+
+
+
+}
+
+.navbar ul {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    list-style: none;
+    padding: auto;
+    padding-left: 900px;
+    margin-top: 30px;
+    font-weight: 700;
+    font-size: 20px;
+    /* color: rgb(133, 90, 65); */
+}
+
+.navbar a {
+    color: rgb(133, 90, 65);
+    text-decoration: none;
+}
+
+.navbar a:hover {
+
+    color: rgb(209, 202, 192);
+    text-decoration: underline;
+}
+
+.goBackbutton {
+    position: absolute;
+    text-decoration: none;
+    left: 250px;
+    top: 40px;
+    color: white;
+    font-weight: 500;
+}
+
+.goBackbutton:hover {
+    color: white;
+}
+
+/* 
+.navbar ul li {} */

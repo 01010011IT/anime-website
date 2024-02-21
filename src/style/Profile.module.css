@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Roboto+Mono:wght@100;200;300;400;500;600;700&display=swap');
+
+.title {
+    color: rgb(133, 90, 65);
+    margin: 80px 50px 50px 50px;
+}
+
+.favorite {
+    color: rgb(133, 90, 65);
+    margin-top: 50px;
+}
+
+/* in note component */
+.btnAdd {
+    background-color: rgba(250, 235, 215, 0.712);
+    color: rgb(133, 90, 65);
+}
+
+.btnAdd:hover {
+    background-color: rgb(133, 90, 65);
+    color: rgba(250, 235, 215, 0.712);
+}
+
+/* in profile */
+.note {
+    background-color: rgba(197, 162, 137, 0.466);
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+
+.text {
+    margin-top: 25px;
+    color: rgb(133, 90, 65);
+    text-align: center;
+    font-family: 'Abel', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 300;
+    font-size: 15px;
+}
+
+.button {
+    text-align: center;
+    position: relative;
+    top: 50px;
+    right: -43px;
+    background-color: aliceblue;
+    color: rgb(133, 90, 65);
+    border: 1px solid aliceblue;
+    border-radius: 5px;
+}
+
+
+/* profile informatio */
+.card {
+    background-color: rgba(197, 162, 137, 0.925);
+    color: rgb(133, 90, 65);
+    margin-top: 50px;
+    margin-top: 0px;
+}
+
+
+/* likes component */
+
+.removeLike {
+    background-color: rgba(250, 235, 215, 0.712);
+    color: rgb(133, 90, 65);
+    position: absolute;
+    left: 240px;
+    bottom: 5px;
+}
+
+.link {
+    position: relative;
+    bottom: -15px;
+    right: 10px;
+    color: rgb(133, 90, 65);
+}
+
+.link:hover {
+    color: rgb(82, 76, 76);
+    text-decoration: none;
+}
+
+.div {
+    margin-top: 100px;
+}
+
+.episode {
+    color: rgb(133, 90, 65);
+}
+
+.modalTitle {
+    color: rgb(133, 90, 65);
+}
+
+.moduleButton {
+    background-color: rgba(197, 162, 137, 0.925);
+    color: rgb(133, 90, 65);
+    border-radius: 9px;
+    margin-top: 20px;
+    width: 80px;
+}

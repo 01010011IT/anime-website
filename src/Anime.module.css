@@ -1,0 +1,27 @@
+.btnLike {
+    position: relative;
+    bottom: -15px;
+    right: -85px;
+    background-color: rgb(197, 162, 137);
+    border: 1px solid white;
+    color: rgb(133, 90, 65);
+    border-radius: 5px;
+    width: 40px;
+}
+
+.btnLike:hover {
+
+    background-color: rgb(209, 202, 192);
+}
+
+.text {
+    position: relative;
+    bottom: -15px;
+    right: 10px;
+    color: rgb(133, 90, 65);
+}
+
+.text:hover {
+    color: rgb(82, 76, 76);
+    text-decoration: none;
+}
